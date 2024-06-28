@@ -63,4 +63,5 @@ chmod + x start_server.sh
 ```
 Перейдите по адресу [http://localhost:3000](http://localhost:3000) и нажмите на кнопку `in`
 Введите данные пользователя указанные в `server/.env`
+
 ![img_2.png](img_2.png)
